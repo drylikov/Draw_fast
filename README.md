@@ -1,4 +1,4 @@
-## draw fast
+## Draw fast.
 
 Just...
 
@@ -6,4 +6,3 @@ Just...
 npm install
 npm run dev
 ```
-
